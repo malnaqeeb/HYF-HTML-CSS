@@ -1,0 +1,184 @@
+body{
+    margin:-20px;
+  }
+  #page{
+    width: 960px;
+    height:2800px;
+    margin:0 auto;
+  }
+  #head {
+    width: 960px;
+    height: 400px;
+    background-image: url(https://i.postimg.cc/NFLkHTN0/cello.jpg);
+    background-size: 960px;
+    margin-bottom:-18px;
+      }
+  #head h1 {
+    font-size: 30px;
+    color:white;
+    padding-left: 50px;
+    font-family:arial;
+    padding-top: 170px;
+     }
+  #head p{
+    font-size: 20px;
+    line-height:0px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    color:white;
+     margin-bottom:60px;
+    margin-tob:20px;
+   
+  }
+  
+  #logo {
+   font-size: 35px;
+    margin-left:10px;
+    padding-right:50px;
+    padding-top: 50px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    float:right;}
+     
+  #nav1 li{
+   list-style: none;
+   display:inline;
+   padding-right:50px;
+   padding-top: 50px;
+   color: white;
+   font-family: arial;
+   float:left;
+   font-size:10px;
+   font-family:blod;
+   }
+  #nav1  a:hover {
+   color: rgb(222, 236, 1);
+  }
+  .nav1-design{
+  background-color: rgba(42, 20, 6,0.8);
+  font-size: 21px;
+  padding: 5px 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  border-radius: 15px;
+  }
+  
+  #nav2 li {
+    list-style: none;
+    display:inline;
+    padding: 15px ;
+    color: white;
+    font-size: 20px;
+    }
+  #nav2 a:hover{
+    color:white;
+  }
+  .nav2-design{
+  background-color: rgb(222, 236, 1);
+  font-size: 20px;
+  padding: 15px 25px;
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+  border-radius:20px;
+  }
+  #box {
+    width: 960px;
+    height: 2340px;
+    margim-top:0px;
+   }
+  #right-box{
+    width: 320px;
+    height: 2340px;
+    float: right;
+    background-color: rgb(71, 71, 71);
+  }
+  #right-box h1{
+    color: rgb(248, 100, 2);
+    text-align: left;
+    padding-left:40px;
+    font-size:35px;
+    }
+  #right-box p{
+    text-align: left;
+    margin: 20px 40px;
+    color: white;
+    font-size:18px;
+    
+  }
+  #right-box a {
+    background-color: rgb(215, 80, 12);
+    font-size: 20px;
+    padding: 5px 32px;
+    margin-left: 75px;
+    color:rgb(255, 255, 255);
+    border-radius: 12px;
+    text-decoration:none;
+  }
+  .contact{
+    padding-top:1200px;
+    line-height:30px;
+    
+  }
+  
+  #left-box{
+    width: 640px;
+    height:2340px;
+    background-color: rgb(168, 167, 167);
+    float: left;
+  }
+  #left-box h1{
+    font-family: arial;
+    padding-left: 20px;
+    padding-top: 30px;
+    color: rgb(221, 47, 38);
+    font-size: 26px;
+  }
+  #left-box p {
+    font-size: 16px;
+    font-family: cursive;
+    margin-right:10px;
+    padding-left: 25px;
+    }
+  
+  .tite-cour{
+    color:rgb(215, 23,12);
+    font-family:cursive;
+    font-size:20px;
+  }
+  
+  .table {
+    float:right;
+    margin-right:100px;
+    font-size:18px;
+    }
+  .course{
+    padding-bottom:30px; 
+    padding-left:30px
+    }
+  
+  .course:hover{
+    background-color:rgba(255, 201,7,0.2);
+  }
+  #foot{
+    width: 960px;
+    height:60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    background-color: rgb(54, 54, 54);
+    }
+  #foot p {
+    text-align: center;
+    font-size: 18px;
+    color:rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    font-family:arial;
+    line-height:3;
+  }
+  
+  
+  
+  
